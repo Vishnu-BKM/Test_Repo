@@ -1,2 +1,5 @@
 # This is a module
-# Some content added
+
+import sys
+
+print (sys.version_info)
